@@ -9,9 +9,10 @@ Implement IndexedDB so the budget tracker persists (displays & saves) data even 
 
 ## Screenshot
 ![](/Assets/images/pic.png)
+![](https://img.shields.io/badge/license-MIT-Green)
 
 ## License
-[MIT]
+This app is under the MIT License.
 
 ## Contributions
 Feel free to use this and modify it to your hearts content.
