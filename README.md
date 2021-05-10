@@ -8,7 +8,7 @@ Implement IndexedDB so the budget tracker persists (displays & saves) data even 
 [Link To Deployed Project]
 
 ## Screenshot
-![alt text](https://github.com/NoorA1125/budget/images/main/pic.png?raw=true)
+![](/Assets/images/pic.png)
 
 ## License
 [MIT]
