@@ -1,4 +1,5 @@
 # Offline Budget Tracker
+![](https://img.shields.io/badge/license-MIT-Green)
 
 ## Overview
 Implement IndexedDB so the budget tracker persists (displays & saves) data even when the device is offline. When the device finally comes back online, any pending transactions will be synced with the backend API.
@@ -9,7 +10,6 @@ Implement IndexedDB so the budget tracker persists (displays & saves) data even 
 
 ## Screenshot
 ![](/Assets/images/pic.png)
-![](https://img.shields.io/badge/license-MIT-Green)
 
 ## License
 This app is under the MIT License.
