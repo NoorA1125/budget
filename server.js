@@ -1,4 +1,5 @@
-//This was one of our in-class activities
+//not working on heroku... [TypeError: transactions.reduce/transactions.unshift is not a function
+    at populateTotal]
 const express = require("express");
 const mongoose = require("mongoose");
 
